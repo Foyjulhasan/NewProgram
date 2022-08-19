@@ -1,0 +1,13 @@
+.banner-design{
+    height:400px;
+    width: 1000px;
+}
+
+body{
+    margin:0px 130px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
